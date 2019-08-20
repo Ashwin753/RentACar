@@ -37,7 +37,7 @@ Note: This is only SLDS code, not complete CarExperiences component
                         <lightning:formattedRichText value="#######DISPLAY CAR EXPERIENCE RECORD EXPERIENCE FIELD HERE USING ATTRIBUTES#######" />
                     </p>
                 </div>
-            </article>
+            </article> 
         </li>
     </ul>
 </div>
