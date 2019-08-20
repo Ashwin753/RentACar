@@ -15,7 +15,7 @@ Note: This is only SLDS code, not complete CarExperiences component
 
                             <!-- Displaying user photo -->
                             <img alt="{!carExp.CreatedBy.Name}" src="{!carExp.CreatedBy.SmallPhotoUrl}" title="{!carExp.CreatedBy.Name}" />
-
+              
                         </a>
                     </div>
                     <div class="slds-media__body">
